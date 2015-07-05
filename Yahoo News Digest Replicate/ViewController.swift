@@ -55,7 +55,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     
     func stylingDateLabel() {
         
-        self.dateLabel.text = "July 3"
+        self.dateLabel.text = "July 5"
         self.dateLabel.font = UIFont(name: "HelveticaNeue", size: 30)
         self.dateLabel.textColor = UIColor.whiteColor()
     }
