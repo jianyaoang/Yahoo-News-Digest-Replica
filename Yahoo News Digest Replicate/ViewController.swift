@@ -40,8 +40,8 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     
     func creatingSampleNews() {
         
-        let news1 = News(newsTitle: "Google apologises after photo app labels couple Gorillas", newsCategory: "Technology")
-        let news2 = News(newsTitle: "'Steve Jobs' trailer shows a different side of Apple co-founder's genius", newsCategory: "Entertainment")
+        let news1 = News(newsTitle: "Google apologises after photo app labels couple as Gorillas", newsCategory: "Technology")
+        let news2 = News(newsTitle: "'Steve Jobs' trailer shows a different side of Apple's co-founder", newsCategory: "Entertainment")
         let news3 = News(newsTitle: "Chelsea takes English Premier League title", newsCategory: "Sports")
         let news4 = News(newsTitle: "Shares falls as Euro plunges", newsCategory: "Business")
         let news5 = News(newsTitle: "SpaceX failure shows that we need more commercial space travel", newsCategory: "Science")
